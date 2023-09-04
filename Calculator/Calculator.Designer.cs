@@ -169,7 +169,6 @@
             Controls.Add(lblAngka1);
             Name = "Calculator";
             Text = "Simple Calculator";
-            Load += Calculator_Load;
             ResumeLayout(false);
             PerformLayout();
         }

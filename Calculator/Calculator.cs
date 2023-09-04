@@ -51,10 +51,5 @@ namespace Calculator
             txtAngka2.Text = "";
             txtHasil.Text = "";
         }
-
-        private void Calculator_Load(object sender, EventArgs e)
-        {
-
-        }
     }
 }
